@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iot-android-client</string>
+    <string name="steps_label">Steps:</string>
+    <string name="last_sync_time_label">Last sync time:</string>
+    <string name="last_sync_events_label">Events sent:</string>
+    <string name="queue_size_label">Pending events:</string>
+    <string name="last_event_time">Last event time:</string>
+</resources>
